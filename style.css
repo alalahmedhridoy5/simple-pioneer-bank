@@ -1,0 +1,38 @@
+body{
+    padding: 150px;
+}
+.name-highlight{
+    text-align: center;
+    margin-bottom: 80px;
+    color: blue;
+    text-shadow: 2px 2px 2px brown;
+}
+.submit-area{
+    box-shadow: 5px 5px 5px rgb(196, 190, 186),
+    -5px -5px 5px rgb(240, 217, 195)
+    ;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(248, 244, 239);
+}
+#transition-area{
+  display: none;
+}
+.deposit{
+    background-color: chocolate;
+   
+}
+.withdraw{
+    background-color: rgb(219, 18, 52);
+}
+.balance{
+    background-color: purple;
+}
+.status{
+    margin:0, 20px;
+    padding: 20px;
+    color: white;
+}
+.status h1{
+    font-size: 60px ;
+}
